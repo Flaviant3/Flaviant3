@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Flavian</h1>
 <h3 align="center">Un jeune développeur back-end passionné</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviant3" alt="flaviant3" /></a> </p>
 
